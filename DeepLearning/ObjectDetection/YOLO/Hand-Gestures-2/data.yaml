@@ -1,0 +1,15 @@
+names:
+- '---'
+- '-----'
+- '------'
+- '-------'
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: hand-gestures-qm0dt
+  url: https://universe.roboflow.com/hand-gestures/hand-gestures-qm0dt/dataset/2
+  version: 2
+  workspace: hand-gestures
+test: ../test/images
+train: ../train/images
+val: ../valid/images
